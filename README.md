@@ -25,7 +25,7 @@ This project is a web scraper for extracting the top 10 articles from Hacker New
     ```
 
 3. Check the output CSV file:
-    - `hacker-news-top-10.csv` will be generated in the project directory
+    - `hacker-news-top10.csv` will be generated in the project directory
 
 4. Run test case
       ```sh
